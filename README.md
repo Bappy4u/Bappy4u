@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Najmul H. Bappy
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently studing CSE at Sonargaon University.
 - 💞️ I’m looking to collaborate on ony web development project using Django.
 - 📫 How to reach me ... https://nbappy.me/
 
