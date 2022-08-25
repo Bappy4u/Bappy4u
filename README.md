@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Najmul H. Bappy</h1>
 <h3 align="center">A passionate Software Engineering Enthusiast.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bappy4u&label=Profile%20views&color=0e75b6&style=flat" alt="bappy4u" /> </p>
+<br>
 
 - 🔭 I’m currently working on **Personal Projects**
 
