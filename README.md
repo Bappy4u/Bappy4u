@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently exploring **C# and front end frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bappy4u](https://github.com/Bappy4u)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Bappy4u)
 
 - 💬 Ask me about **python, django**
 
-- 📫 How to reach me **http.bappy@gmail.com**
+- 📫 Reach Me on [LinkedIn](https://www.linkedin.com/in/bappy4u/) or **http.bappy@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1flNwI8aHOf5D0H5gUYUKumty47D1zTqv/view?usp=sharing)
+- 📄 Checkout my [Resume](https://drive.google.com/file/d/1flNwI8aHOf5D0H5gUYUKumty47D1zTqv/view?usp=sharing)
 
 - ⚡ Fun fact **I would love to watch a movie about myself.**
 
