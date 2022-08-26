@@ -29,10 +29,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/bappy4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="bappy4u" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bappy4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bappy4u" height="25" width="40" /></a>
+<a href="https://www.leetcode.com/bappy4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bappy4u" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bappy4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bappy4u" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/http.bappy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="http.bappy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bappy4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bappy4u" height="30" width="40" /></a>
 </p>
 
 
