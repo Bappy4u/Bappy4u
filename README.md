@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working at **[Enosis Solution](https://www.enosisbd.com/)**
 
-- 🌱 I’m currently exploring **nodejs, expressjs, mongodb, vuejs, threejs, c++**
+- 🌱 I’m currently exploring **Design patterns, best practices, threejs**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Bappy4u)
 
-- 💬 Ask me about **nodejs, expressjs, vuejs, threejs, c++, python, django**
+- 💬 Ask me about **nodejs, expressjs, vuejs, c++, python, django**
 
 - 📫 Reach Me on [LinkedIn](https://www.linkedin.com/in/bappy4u/) or **http.bappy@gmail.com**
 
