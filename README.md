@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **[Enosis Solution](https://www.enosisbd.com/)**
 
-- 🌱 I’m currently exploring **nodejs, expressjs, mongodb, vuejs, threejs, c++*
+- 🌱 I’m currently exploring **nodejs, expressjs, mongodb, vuejs, threejs, c++**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Bappy4u)
 
